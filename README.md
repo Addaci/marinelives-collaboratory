@@ -11,6 +11,10 @@ The goals of the collaboratory are to:
 2. Develop and document shared knowledge of large language models applied to historical research use cases
 3. Build a community of doctoral students interested in large language model applications to historical research
 
+The collaboratory draws on Colin Greenstreet's work in digital history, natural language processing, machine transcription, and large language models, as co-founder in 2012 of the volunteer led [MarineLives digital history project](https://app.transkribus.org/sites/marinelivesorg/about).
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The collaboratory will meet once a week online for 60 minutes starting in the week of November 25th 2024
 
 **Proposed topics for November and December 2024:**
@@ -35,6 +39,7 @@ W/C January 27th 2025: **Vectorbases (3) Semantic similarity**
 
 **Possible future topics:** Archival APIs; Archival workflow; Creating fine-tuning datasets; Distance reading; Historical simulations; Hugging Face; Knowledge graphs; Linked Open Data; Organising personal archives; SQL; Text correction; Visualization
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 **Collaboratory resources:**
 
 [Anthropic - summarization](https://github.com/anthropics/anthropic-cookbook/blob/main/skills/summarization/guide.ipynb/)
