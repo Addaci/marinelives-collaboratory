@@ -2,14 +2,16 @@
 Depository for MarineLives Collaboratory
 
 To accompany Colin Greenstreet's November 19th 2024 talk at the IHR Digital History seminar on [Machine Learning and Historical Research](https://www.history.ac.uk/events/ai-agents-historical-research-a-new-skill-set-historians), MarineLives is launching an online collaboratory.
-**We welcome non-coding and very-low-coding historians with open arms.** Each session will be built around [specific historical research use cases ]. Participants are invited to bring ther own use cases for discussion. The collaboratory is targeted at doctoral students working in the field of history, who would like to explore how large language model based machine learning techniques can be incorporated into their research design and research processes.Each session will be built around [specific Historical Research Use Cases](https://github.com/Addaci/marinelives-collaboratory/wiki/Historical-Research-Use-Cases)
+**We welcome non-coding and very-low-coding historians with open arms.** 
 
-The collaboratory will meet once a week online for 60 minutes starting in the week of November 25th 2024
+The collaboratory is targeted at doctoral students working in the field of history, who would like to explore how large language model based machine learning techniques can be incorporated into their research design and research processes. Each session will be built around [specific Historical Research Use Cases](https://github.com/Addaci/marinelives-collaboratory/wiki/Historical-Research-Use-Cases). Participants are invited to bring ther own use cases for discussion. 
 
-The goals of the collaboratory are to
+The goals of the collaboratory are to:
 1. Build useful research tools for real historical research use cases which can be put into immediate effect
 2. Develop and document shared knowledge of large language models applied to historical research use cases
 3. Build a community of doctoral students interested in large language model applications to historical research
+
+The collaboratory will meet once a week online for 60 minutes starting in the week of November 25th 2024
 
 **Proposed topics for November and December 2024:**
 
