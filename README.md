@@ -37,7 +37,7 @@ W/C January 20th 2025: **Vectorbases (2): Tokenization and embeddings**
 
 W/C January 27th 2025: **Vectorbases (3) Semantic similarity**
 
-**Possible future topics:** Archival APIs; Archival workflow; Creating fine-tuning datasets; Distance reading; Historical simulations; Hugging Face; Knowledge graphs; Linked Open Data; Organising personal archives; SQL; Text correction; Visualization
+**Possible future topics:** Archival APIs; Archival workflow; Creating fine-tuning datasets; Distance reading; Historical simulations; Hugging Face; Knowledge graphs; Linked Open Data; Organising personal archives; SQL; Raw HTR text correction, modernization and summarization; Visualization
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 **Collaboratory resources:**
