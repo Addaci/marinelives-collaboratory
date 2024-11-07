@@ -35,7 +35,7 @@ Possible future topics: Archival APIs; Archival workflow; Creating fine-tuning d
 
 Collaboratory resources:
 
-Anthropic - Summarization: https://github.com/anthropics/anthropic-cookbook/blob/main/skills/summarization/guide.ipynb/; Github - marinelives-collaboratory: https://github.com/Addaci; Google's Colab: https://colab.research.google.com/; Google's NotebookLM: https://notebooklm.google/; HuggingFace - MarineLives Organisation: https://huggingface.co/MarineLives; Pinecone: https://www.pinecone.io/
+Anthropic - Summarization: https://github.com/anthropics/anthropic-cookbook/blob/main/skills/summarization/guide.ipynb/; Github - marinelives-collaboratory: https://github.com/Addaci/marinelives-collaboratory/blob/main/README.md; Google's Colab: https://colab.research.google.com/; Google's NotebookLM: https://notebooklm.google/; HuggingFace - MarineLives Organisation: https://huggingface.co/MarineLives; Pinecone: https://www.pinecone.io/
 
 
 
