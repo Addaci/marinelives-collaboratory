@@ -31,45 +31,11 @@ W/C January 20th 2025: Vectorbases (2): Tokenization and embeddings
 
 W/C January 27th 2025: Vectorbases (3) Semantic similarity
 
-Possible future topics:
-
-Archival APIs
-
-Archival workflow
-
-Creating fine-tuning datasets
-
-Distance reading
-
-Historical simulations
-
-Hugging Face
-
-Knowledge graphs
-
-Linked Open Data
-
-Organising personal archives
-
-SQL
-
-Text correction
-
-Visualization
+Possible future topics: Archival APIs; Archival workflow; Creating fine-tuning datasets; Distance reading; Historical simulations; Hugging Face; Knowledge graphs; Linked Open Data; Organising personal archives; SQL; Text correction; Visualization
 
 Collaboratory resources:
 
-Anthropic - Summarization: https://github.com/anthropics/anthropic-cookbook/blob/main/skills/summarization/guide.ipynb/
-
-Github - marinelives-collaboratory: https://github.com/Addaci
-
-Google's Colab: https://colab.research.google.com/
-
-Google's NotebookLM: https://notebooklm.google/
-
-HuggingFace - MarineLives Organisation: https://huggingface.co/MarineLives
-
-Pinecone: https://www.pinecone.io/
+Anthropic - Summarization: https://github.com/anthropics/anthropic-cookbook/blob/main/skills/summarization/guide.ipynb/; Github - marinelives-collaboratory: https://github.com/Addaci; Google's Colab: https://colab.research.google.com/; Google's NotebookLM: https://notebooklm.google/; HuggingFace - MarineLives Organisation: https://huggingface.co/MarineLives; Pinecone: https://www.pinecone.io/
 
 
 
