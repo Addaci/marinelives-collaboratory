@@ -54,6 +54,8 @@ W/C January 27th 2025: **Vectorbases (3) Semantic similarity**
 
 [Pinecone - vectorbases](https://www.pinecone.io/)
 
+[zotero-marinelives-collaboratory](https://www.zotero.org/groups/5750789/marinelives-collaboratory/library)
+
 
 
 
