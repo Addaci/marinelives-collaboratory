@@ -11,7 +11,7 @@ The goals of the collaboratory are to:
 2. Develop and document shared knowledge of large language models applied to historical research use cases
 3. Build a community of doctoral students interested in large language model applications to historical research
 
-The collaboratory draws on Colin Greenstreet's work in digital history, natural language processing, machine transcription, and large language models, as co-founder in 2012 of the volunteer led [MarineLives digital history project](https://app.transkribus.org/sites/marinelivesorg/about).
+The collaboratory draws on Colin Greenstreet's work in digital history, natural language processing, machine transcription, and large language models, as co-founder in 2012 of the volunteer led [MarineLives digital history project](https://app.transkribus.org/sites/marinelivesorg/about). Joining us as an academic advisor, with a strong interest in machine transcription and digital techniques in the context of Brazilian and Atlantic world history, is [Dr Thiago Krause](https://clasprofiles.wayne.edu/profile/hq8728), associate professor at Wayne State University, Michigan,.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
