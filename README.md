@@ -45,7 +45,7 @@ Tueday, January 21st 2025: **Vectorbases (2): Tokenization and embeddings**
 
 Tuesday, January 28th 2025: **Vectorbases (3) Semantic similarity**
 
-**Possible future topics:** Archival APIs; AI-enhanced Dublin Core compliant metadata; Archival workflow; Creating fine-tuning datasets; Distance reading; Historical simulations; Hugging Face; Knowledge graphs; Integration with Semantic Scholar; Linked Open Data; Organising personal archives; SQL; Raw HTR text correction, modernization and summarization; Visualization
+**Possible future topics:** Archival APIs; AI-enhanced Dublin Core compliant metadata; Archival workflow; Building history strategy games; Creating fine-tuning datasets; Distance reading; Historical simulations; Hugging Face; Knowledge graphs; Integration with Semantic Scholar; Linked Open Data; Organising personal archives; SQL; Raw HTR text correction, modernization and summarization; Visualization
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 **Collaboratory resources:**
