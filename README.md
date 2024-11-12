@@ -1,4 +1,6 @@
 # marinelives-collaboratory
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Depository for MarineLives Collaboratory
 
 To accompany Colin Greenstreet's November 19th 2024 talk at the IHR Digital History seminar on [Machine Learning and Historical Research](https://github.com/Addaci/marinelives-collaboratory/wiki/AI-assistants-and-agents:-A-New-Skill-Set-for-Historians%3F), MarineLives is launching an online collaboratory.
@@ -17,27 +19,31 @@ We have an [active wiki](https://github.com/Addaci/marinelives-collaboratory/wik
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Weekly sessions on ZOOM: Tuesdays @ 4 pm UK time; 5 pm Paris, Berlin, Madrid; 11 am EST || Weekly office ZOOM drop-in to discuss student use cases: Thursdays  @ 4 pm UK time; 5 pm Paris, Berlin, Madrid; 11 am EST**
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The collaboratory will meet once a week online for 60 minutes starting in the week of November 25th 2024
 
 **Proposed topics for November and December 2024:**
 
-W/C November 25th 2024: **Prompt engineering**
+Tuesday, November 26th 2024: **Prompt engineering**
 
-W/C December 2nd 2024:  **Summarization**
+Tueday, December 3rd 2024:  **Summarization**
 
-W/C December 9th 2024: **Named entity extraction**
+Tuesday, December 10th 2024: **Named entity extraction**
 
-W/C December 16th 2024: **Metadata creation**
+Tuesday, December 17th 2024: **Metadata creation**
 
 **Proposed topics for January 2025:**
 
-W/C January 6th 2025: **Working with Colab**
+Tueday, January 7th 2025: **Working with Colab**
 
-W/C January 13th 2025: **Vectorbases (1): NotebookLM**
+Tueday, January 14th 2025: **Vectorbases (1): NotebookLM**
 
-W/C January 20th 2025: **Vectorbases (2): Tokenization and embeddings**
+Tueday, January 21st 2025: **Vectorbases (2): Tokenization and embeddings**
 
-W/C January 27th 2025: **Vectorbases (3) Semantic similarity**
+Tuesday, January 28th 2025: **Vectorbases (3) Semantic similarity**
 
 **Possible future topics:** Archival APIs; AI-enhanced Dublin Core compliant metadata; Archival workflow; Creating fine-tuning datasets; Distance reading; Historical simulations; Hugging Face; Knowledge graphs; Integration with Semantic Scholar; Linked Open Data; Organising personal archives; SQL; Raw HTR text correction, modernization and summarization; Visualization
 
