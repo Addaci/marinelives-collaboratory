@@ -1,7 +1,7 @@
 # marinelives-collaboratory
 Depository for MarineLives Collaboratory
 
-To accompany Colin Greenstreet's November 19th 2024 talk at the IHR Digital History seminar on [Machine Learning and Historical Research](https://www.history.ac.uk/events/ai-agents-historical-research-a-new-skill-set-historians), MarineLives is launching an online collaboratory.
+To accompany Colin Greenstreet's November 19th 2024 talk at the IHR Digital History seminar on [Machine Learning and Historical Research](https://github.com/Addaci/marinelives-collaboratory/wiki/AI-assistants-and-agents:-A-New-Skill-Set-for-Historians%3F), MarineLives is launching an online collaboratory.
 **We welcome non-coding and very-low-coding historians with open arms.** 
 
 The collaboratory is targeted at doctoral students working in the field of history, who would like to explore how large language model based machine learning techniques can be incorporated into their research design and research processes. Each session will be built around [specific Historical Research Use Cases](https://github.com/Addaci/marinelives-collaboratory/wiki/Historical-Research-Use-Cases). Participants are invited to bring ther own use cases for discussion. 
