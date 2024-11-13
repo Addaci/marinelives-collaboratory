@@ -3,7 +3,7 @@
 
 Depository for MarineLives Collaboratory
 
-To accompany Colin Greenstreet's November 19th 2024 talk at the IHR Digital History seminar on [Machine Learning and Historical Research](https://github.com/Addaci/marinelives-collaboratory/wiki/AI-assistants-and-agents:-A-New-Skill-Set-for-Historians%3F), MarineLives is launching an online collaboratory.
+To accompany Colin Greenstreet's [November 19th 2024 talk](https://ihrdighist.blogs.sas.ac.uk/2024/09/tuesday-19-november-2024-colin-greenstreet-ai-agents-for-historical-research-a-new-skill-set-for-historians/) at the IHR Digital History seminar on [Machine Learning and Historical Research](https://github.com/Addaci/marinelives-collaboratory/wiki/AI-assistants-and-agents:-A-New-Skill-Set-for-Historians%3F), MarineLives is launching an online collaboratory.
 **We welcome non-coding and very-low-coding historians with open arms.** 
 
 The collaboratory is targeted at masters and doctoral students working in the field of history, who would like to explore how large language model based machine learning techniques can be incorporated into their research design and research processes. Each session will be built around [specific Historical Research Use Cases](https://github.com/Addaci/marinelives-collaboratory/wiki/Historical-Research-Use-Cases). Participants are invited to bring their own use cases for discussion. 
@@ -17,7 +17,7 @@ The goals of the collaboratory are to:
 
 The collaboratory draws on Colin Greenstreet's work in digital history, natural language processing, machine transcription, and large language models, as co-founder in 2012 of the volunteer led [MarineLives digital history project](https://app.transkribus.org/sites/marinelivesorg/about). Joining us as an academic advisor, with a strong interest in machine transcription and digital techniques in the context of Brazilian and Atlantic world history, is [Dr Thiago Krause](https://clasprofiles.wayne.edu/profile/hq8728), associate professor at Wayne State University, Michigan. 
 
-**Participants who have registered to take part in the collaboratory include masters, doctoral and postdoctoral students from Antwerp, Harvard, Oldenburg, Wayne State, and Yale.**
+**Participants who have registered to take part in the collaboratory include masters, doctoral and postdoctoral students from Antwerp, Harvard, Oldenburg, Wayne State, Yale and York.**
 
 We have an [active wiki](https://github.com/Addaci/marinelives-collaboratory/wiki), with content frequently added.
 
