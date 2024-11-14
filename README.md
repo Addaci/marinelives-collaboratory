@@ -41,9 +41,9 @@ Tuesday, December 17th 2024: **Metadata creation**
 
 **Proposed topics for January 2025:**
 
-Tueday, January 7th 2025: **Working with Colab**
+Tueday, January 7th 2025: **Working with [Colab](https://colab.research.google.com/)**
 
-Tueday, January 14th 2025: **Vectorbases (1): NotebookLM**
+Tueday, January 14th 2025: **Vectorbases (1): [NotebookLM](https://notebooklm.google/)**
 
 Tueday, January 21st 2025: **Vectorbases (2): Tokenization and embeddings**
 
