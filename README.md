@@ -31,7 +31,7 @@ The collaboratory will meet once a week online for 60 minutes starting in the we
 
 **Proposed topics for November and December 2024:**
 
-Tuesday, November 26th 2024: **Prompt engineering**
+Tuesday, November 26th 2024: **[Prompt engineering](https://github.com/Addaci/marinelives-collaboratory/wiki/Prompt-engineering)**
 
 Tueday, December 3rd 2024:  **Summarization**
 
