@@ -31,23 +31,23 @@ The collaboratory will meet once a week online for 60 minutes starting in the we
 
 **Proposed topics for November and December 2024:**
 
-Tuesday, November 26th 2024: **[Prompt engineering](https://github.com/Addaci/marinelives-collaboratory/wiki/Prompt-engineering)**
+* Tuesday, November 26th 2024: **[Prompt engineering](https://github.com/Addaci/marinelives-collaboratory/wiki/Prompt-engineering)**
 
-Tueday, December 3rd 2024:  **[Summarization](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#s)**
+* Tuesday, December 3rd 2024:  **[Summarization](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#s)**
 
-Tuesday, December 10th 2024: **[Named entity extraction](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#e)**
+* Tuesday, December 10th 2024: **[Named entity extraction](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#e)**
 
-Tuesday, December 17th 2024: **Metadata creation**
+* Tuesday, December 17th 2024: **Metadata creation**
 
 **Proposed topics for January 2025:**
 
-Tueday, January 7th 2025: **Working with [Colab](https://colab.research.google.com/)**
+* Tuesday, January 7th 2025: **Working with [Colab](https://colab.research.google.com/)**
 
-Tueday, January 14th 2025: **[Vectorbases](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#v) (1): [NotebookLM](https://notebooklm.google/)**
+* Tuesday, January 14th 2025: **[Vectorbases](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#v) (1): [NotebookLM](https://notebooklm.google/)**
 
-Tueday, January 21st 2025: **[Vectorbases](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#v) (2): [Tokenization and embeddings](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#t)**
+* Tuesday, January 21st 2025: **[Vectorbases](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#v) (2): [Tokenization and embeddings](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#t)**
 
-Tuesday, January 28th 2025: **[Vectorbases](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#v) (3) [Semantic similarity](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#s)**
+* Tuesday, January 28th 2025: **[Vectorbases](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#v) (3) [Semantic similarity](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#s)**
 
 **Possible future topics:** Archival APIs; AI-enhanced Dublin Core compliant metadata; Archival workflow; Building history strategy games; Creating fine-tuning datasets; Distance reading; Historical simulations; Hugging Face; Knowledge graphs; Integration with Semantic Scholar; Linked Open Data; Organising personal archives; SQL; Raw HTR text correction, modernization and summarization; Visualization; Scholarly editing in the world of LLMs
 
