@@ -37,7 +37,7 @@ The collaboratory will meet once a week online for 60 minutes starting in the we
 
 * Tuesday, December 10th 2024: **[Named entity extraction](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#e)**
 
-* Tuesday, December 17th 2024: **Metadata creation**
+* Tuesday, December 17th 2024: **Data; synthetic data; metadata**
 
 **Proposed topics for January 2025:**
 
