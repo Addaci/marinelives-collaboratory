@@ -15,9 +15,9 @@ The goals of the collaboratory are to:
 2. Develop and document shared knowledge of large language models applied to historical research use cases
 3. Build a community of doctoral students interested in large language model applications to historical research
 
-The collaboratory draws on Colin Greenstreet's work in digital history, natural language processing, machine transcription, and large language models, as co-founder in 2012 of the volunteer led [MarineLives digital history project](https://app.transkribus.org/sites/marinelivesorg/about). Joining us as an academic advisor, with a strong interest in machine transcription and digital techniques in the context of Brazilian and Atlantic world history, is [Dr Thiago Krause](https://clasprofiles.wayne.edu/profile/hq8728), associate professor at Wayne State University, Michigan. 
+The collaboratory draws on Colin Greenstreet's work in digital history, natural language processing, machine transcription, and large language models, as co-founder in 2012 of the volunteer led [MarineLives digital history project](https://app.transkribus.org/sites/marinelivesorg/about). Joining us as a US based academic advisor, with a strong interest in machine transcription and digital techniques in the context of Brazilian and Atlantic world history, is [Dr Thiago Krause](https://clasprofiles.wayne.edu/profile/hq8728), associate professor at Wayne State University, Michigan. Joining us as a European based academic advisor, with a strong interest in digital techniques in the context of C18th North American historu, is [Dr Mark L.Thomnpson](https://www.rug.nl/staff/m.l.thompson/?lang=en), senior lecturer of American Studies at the University of Groningen.
 
-**Participants who have registered to take part in the collaboratory include graduate students and faculty from Antwerp, Cambridge, Groningen, Harvard, London, Oldenburg, Wayne State, Yale and York.**
+**Participants who have registered to take part in the collaboratory include graduate students and faculty from Antwerp, Cambridge, Groningen, Harvard, Leuven, London, Oldenburg, Wayne State, Yale and York.**
 
 We have an [active wiki](https://github.com/Addaci/marinelives-collaboratory/wiki), with content frequently added.
 
