@@ -33,7 +33,7 @@ The collaboratory will meet once a week online for 60 minutes starting in the we
 
 * Tuesday, November 26th 2024: **[Prompt engineering](https://github.com/Addaci/marinelives-collaboratory/wiki/Prompt-engineering)**
 
-* Tuesday, December 3rd 2024:  **[Summarization](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#s)**
+* Tuesday, December 3rd 2024:  **[APIs and batch processing](https://github.com/Addaci/marinelives-collaboratory/wiki/APIs-and-batch-processing-%E2%80%90-second-collaboratory-session)**
 
 * Tuesday, December 10th 2024: **[Named entity extraction](https://github.com/Addaci/marinelives-collaboratory/wiki/Glossary#e)**
 
